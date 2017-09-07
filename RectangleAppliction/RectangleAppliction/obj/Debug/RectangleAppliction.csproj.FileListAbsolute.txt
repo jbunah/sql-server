@@ -1,0 +1,6 @@
+c:\users\bunah\documents\visual studio 2017\Projects\RectangleAppliction\RectangleAppliction\bin\Debug\RectangleAppliction.exe.config
+c:\users\bunah\documents\visual studio 2017\Projects\RectangleAppliction\RectangleAppliction\bin\Debug\RectangleAppliction.exe
+c:\users\bunah\documents\visual studio 2017\Projects\RectangleAppliction\RectangleAppliction\bin\Debug\RectangleAppliction.pdb
+c:\users\bunah\documents\visual studio 2017\Projects\RectangleAppliction\RectangleAppliction\obj\Debug\RectangleAppliction.csproj.CoreCompileInputs.cache
+c:\users\bunah\documents\visual studio 2017\Projects\RectangleAppliction\RectangleAppliction\obj\Debug\RectangleAppliction.exe
+c:\users\bunah\documents\visual studio 2017\Projects\RectangleAppliction\RectangleAppliction\obj\Debug\RectangleAppliction.pdb
